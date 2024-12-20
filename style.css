@@ -37,4 +37,7 @@ select {
     border-radius: 4px;
     height: 48px;
     width: 100%;
+    margin-bottom: 24px;
+    appearance: none;
+    padding-left: 18px;
 }
