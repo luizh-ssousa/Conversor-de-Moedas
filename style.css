@@ -44,3 +44,10 @@ select, input {
     font-size: 16px;
     color: #555555;
 }
+
+button {
+    background: #772FD3;
+    border-radius: 5px;
+    width: 100%;
+    border: none;
+}
