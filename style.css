@@ -1,13 +1,8 @@
-/*
-.roboto-regular {
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: "Roboto", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-.roboto-bold {
-    font-family: "Roboto", serif;
-    font-weight: 700;
-    font-style: normal;
-  }
-*/
+}
+
