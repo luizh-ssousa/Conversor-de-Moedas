@@ -10,6 +10,13 @@ body {
     background-color: #8A51FC;
 }
 
+.logo {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 main{
     width: 375px;
     background: #F4F4F4;
