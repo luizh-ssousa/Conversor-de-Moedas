@@ -87,3 +87,14 @@ section {
     align-items: center;
     gap: 4px;
 }
+
+.currency {
+    color: #777777;
+    font-size: 14px;
+}
+
+.currency-value {
+    color: #555555;
+    font-weight: 700;
+    font-size: 20px;
+}
