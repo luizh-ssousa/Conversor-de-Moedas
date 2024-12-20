@@ -29,3 +29,11 @@ label {
     font-weight: 400;
     font-size: 14px;
 }
+
+select {
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    border-radius: 4px;
+    height: 48px;
+    width: 100%;
+}
