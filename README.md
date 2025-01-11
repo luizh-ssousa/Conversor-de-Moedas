@@ -1,7 +1,7 @@
 <h1> Conversor de Moedas</h1>
 <br> 
 <br>
-<h2>Esse foi um projeto que aprendi no GrowDev.</h2>
+<h2>Esse foi um projeto que aprendi no DevClub.</h2>
 
 
 <h2> Tecnologias utilizadas:</h2>
